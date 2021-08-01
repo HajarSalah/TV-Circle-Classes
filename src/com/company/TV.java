@@ -6,8 +6,6 @@ public class TV {
     int volumeLevel=1;
     boolean on= false;
 
-    public TV (){}
-
     public void turnOn (){
         this.on= true;
     }
